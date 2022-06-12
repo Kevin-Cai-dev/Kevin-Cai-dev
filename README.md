@@ -1,7 +1,7 @@
 ### Hi there, I'm Kevin 👋
 
 ## I'm a computer science student based in Sydney, Australia.
-Check out my website [here](kevincai.me).
+Check out my website [here](https://kevincai.me/).
 - 🔭 I’m currently working on a [Discord Bot](https://github.com/Kevin-Cai-dev/node-vc-monitor)
 - 🌱 I’m currently learning Typescript and full-stack development
 - 🤔 I'm planning on developing a full-stack web game
